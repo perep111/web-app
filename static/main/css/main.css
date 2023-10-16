@@ -5,7 +5,7 @@ body {
 aside {
     float: left;
     background: #181818;
-    width: 18%;
+    width: 30%;
     padding: 2.5%;
     height: 100vh;
     color: #fff;
@@ -13,21 +13,21 @@ aside {
 }
 
 aside img {
-    width: 120px;
+    width: 100%;
     float: left;
 }
 
 aside .logo {
-    font-size: 40px;
-    margin-left: 10px;
+    font-size: 180%;
+    margin-left: 10%;
     font-weight: bold;
     position: relative;
     top: 18px;
 }
 
 aside h3 {
-    margin-top: 100px;
-    font-size: 30px;
+    margin-top: 50px;
+    font-size: 170%;
 }
 
 aside ul {list-style: none}
@@ -47,25 +47,26 @@ aside ul li:hover, aside ul a:hover {
 main .features {
     float: left;
     color: #fff;
-    margin-top: 100px;
+    margin-top: 2%;
     text-align: center;
-    width: 75%;
+    width: 70%;
 }
 
 main .features h1, {
-    font-size: 55px;
+    font-size: 50%;
     position: relative;
-    right: -5px;
+    right: -2%;
 }
-main .features p {max-width: 600px; margin: 20px auto;}
+main .features p {max-width: 75%; margin: 5% auto;}
 
 .alert-warning {
-    float: left;
+    float: center;
     clear: both;
-    width: 450px;
-    margin: 20px 35%;
+    width: 60%;
+    margin: 5% 20%;
     text-align: left;
 }
+
 
 form {
     margin-left: 32%;
@@ -75,10 +76,10 @@ form {
 
 #news-text {
     color: #fff;
-    max-width: 700px;
-    margin: 20px auto;
-    margin-top: 20px;
+    max-width: 75%;
+    margin: 1% auto;
+    margin-top: 5%;
     text-align: center;
-    width: 75%;
+    width: 100%;
 }
 
