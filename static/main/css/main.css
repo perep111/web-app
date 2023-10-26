@@ -30,6 +30,12 @@ aside h3 {
     font-size: 170%;
 }
 
+aside .logo {
+    font-size: 200%;
+    position: relative;
+    left: -10%;
+}
+
 aside ul {list-style: none}
 aside ul li {
     color: #fff;
